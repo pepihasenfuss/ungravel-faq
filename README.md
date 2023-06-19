@@ -15,10 +15,14 @@ Ungravel morphs a wild bunch of people into a self-funded, self-governed discipl
 
 
 
+
+
 What does „ungravel“ actually mean?
 
 
 The term „ungravel“ resembles to gravel and sand that have no stability at all. If dust, sand and stones un-gravel, stable sculptures emerge. Ungravel encourages social meshes of cooperation and participation that enhance group stability.
+
+
 
 
 
@@ -35,10 +39,14 @@ Ungravel takes away some of the stress and co-founder headaches.
 
 
 
+
+
 Is ungravel a tool for founders or start-up companies?
 
 
 Ungravel is well suited for founding companies and start-ups, in particular in early phases before external investors appear. But ungravel is particularly valuable for any informal group, wether it may become a company or not. International cooperation may benefit from stable and fair group management. NGOs may organize fund raising for their projects overcoming barriers. Ungravel has quite a low entry level. Once an adventure turns into something usefull, group members don’t have to care about their stake or voting rights. Ungravel has fund-raising built-in from day one. Even if you do not intend to raise funds in the near future, it's good to have it when needed. If funding succeeds, ungravel groups do not suffer any disruption while group shares turn into valuable assets.
+
+
 
 
 
@@ -51,10 +59,14 @@ On test chains, such as Goerli or Sepolia, it is entirely for free. On Polygon o
 
 
 
+
+
 Where do I find ungravel? Is it available on all chains?
 
 
 Ungravel started on Ethereum, later on it was deployed on Moonbeam and Polygon. It is available on Ethereum testnets, such as Goerli or Sepolia. Since Ethereum mainnet suffers from high gas and transaction costs, it is not yet clear if Ethereum mainnet will be fully supported short term. It is also extremely expensive to deploy ungravel smart contracts on mainnet. Sometimes, they need to be updated. Mainnet funding required.
+
+
 
 
 
@@ -84,12 +96,16 @@ It may simply be a good idea for many people around.
 
 
 
+
+
 Does ungravel store personal data and private keys?
 
 
 Ungravel stores all application data encrypted. If you have a strong project password, your project and all keys are safe. If you have a short, unsecure project password, you and your group are in danger. It is up to the user to use strong passwords.
 
 Ungravel encrypts project passwords, user passwords and private keys internally. Sensitive data is stored inside the browser application storage. In case you do not write down your project password and have not put it into a safe place offline, your account still remains protected but inaccessible if you ever forget your password. Nobody can help or decrypt your key file. It depends on you to use a strong project password and to put it to a safe place offline. OK?
+
+
 
 
 
@@ -100,10 +116,14 @@ Yes. Ungravel imports keyfiles that come from web3.js - driven apps or from comp
 
 
 
+
+
 Can I export my ungravel account to a keyfile?
 
 
 Yes. Any user can export one account at a time in web3-keyfile format, readable by tools, such as MyCrypto, web3.js-based dAPPs and MetaMask. Reminder: The keyfile stores your private key in cryptographically encrypted form. Its safety depends on the quality of your password. You better put the keyfile password elsewhere, write it down and put it somewhere safe, say offline. Anyway, do not upload keyfiles into the cloud, on a server or elsewhere to the internet. You may store the keyfile to an USB-stick and put your offline password elsewhere.
+
+
 
 
 
@@ -116,10 +136,14 @@ Therefore, compromises belong to ungravel: It is only available in simple, plain
 
 
 
+
+
 What's the ungravel roadmap?
 
 
 Oh, yes. Ungravel is about to be launched during 2023 on testnets and some of the more affordable networks, such as Polygon and Goerli. Lately, Goerli morphed from a network with test ether into a chain with GETH, that have become tradable overnight. Perhaps, Goerli is a very good candidate for a friendly-user test and a limited product launch to enhance product quality under load. Not much of a roadmap, I guess.
+
+
 
 
 
@@ -130,12 +154,16 @@ Ungravel requires an EVM / Ethereum-compatible blockchain with an ENS - Ethereum
 
 
 
+
+
 To whom ungravel may not fit...
 
 
 Ungravel is not another ICO tool and it is not suitable to raise funding from crowds or to organize crowd sales. Ungravel may become your tool for fund raising or investing rounds, but you have to address each investor individually and it is not really suitable for classic VCs. In fact, you may not need a VC at all if you find other investors instead. We are not for or against VC funding, we only think that this part of the journey belongs more into the hands of the founders.
 
 Perhaps, ungravel may serve cooperatives more than high-tech start-ups because it is cheap and accessible. Some may benefit even under difficult circumstances for groups that we did not think of yet, surprise us!
+
+
 
 
 
@@ -149,6 +177,8 @@ Years later, I thought, that we did hire too many people at the same time under 
 Since 2016 I experimented with Ethereum and smart contracts and I thought that it offered truely programmable digital money, for the first time. ICOs proved that one could also make a lot of money out of thin air and turned fluffy whitepapers into millions. Then I thought that blockchain could also be used to create new digital institutions, not only banks, fonds and derivatives. A group of founders needs institutions to lay down a foundational contract, sort of constitution, to seal shareholder structure and to sign funding investors. I think that this institution can be made on blockchain and ungravel is a prototype to prove the idea right.
 
 Ungravel creates stability and trust, leading to fair and cooperative teams that are built upon participation, transparency and democratic votes. Ungravel is not about hierarchy during the founding process but on the contrary it brings more fairness to start-ups and to founding teams.
+
+
 
 
 
@@ -169,10 +199,14 @@ Therefore, Ungravel unifies different stages of "ungravelling" into a single, ea
 
 
 
+
+
 Is ungravel yet another wallet?
 
 
 No. Ungravel helps to organize groups on blockchain without requiring a wallet. Ungravel is a distributed app supporting founding teams and informal groups looking for funding. Yet, ungravel covers basic wallet functionality. You can send Ether, for instance, and receive native chain currency. You can easily send and receive group shares or trade them within your group. Sometimes, we use the term „GroupWallet“. But a typical wallet does have way more functionality. Ungravel cannot hold or administer collectibles, such as NFTs. It does not support foreign ERC20 tokens except group shares. It covers only a minimal feature set of a wallet, not more. In this sense it is a minimal self-custody wallet offering smart accounts.
+
+
 
 
 
@@ -187,6 +221,8 @@ Since blockchain is relatively new to most of them, countless acronyms and compl
 
 
 
+
+
 Is ungravel suited for beginners, for anyone not yet crypto-savvy?
 
 
@@ -198,6 +234,8 @@ Some personal advice (without a guaranty)
 New crypto users should take some time to play around with DApps and services on testnets. Get accustomed to crypto before you invest. Check out faucets to get your first test ether, for free. Find a wallet that you like and experiment with it on a testnet. Do experiments, be open to new apps and services.
 
 Use this DApp on free testnets to gain confidence and experience crypto while avoiding risk. Do not invest into any service, product, DApp or company that you do not have at least a basic understanding of. If you cannot explain it in simple words, e.g. to parents or grandparents, it is quite possible that you didn't get it yourself. Do not believe that you are an early-adopter if you enter the crypto space now, you’re definitely not, sorry. Focus on DApps that you understand and that you consider valuable or useful. Consider to contribute that way to a very creative community. Trust yourself and trust your team to create true value.
+
+
 
 
 
